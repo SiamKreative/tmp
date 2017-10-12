@@ -22,6 +22,15 @@ img {
 	padding-left: 2em;
 	padding-right: 2em;
 	text-align: center;
+	color: white;
+}
+
+.content a {
+	color: white;
+}
+
+.contact-info {
+	margin-top: 2em;
 }
 
 .links {
